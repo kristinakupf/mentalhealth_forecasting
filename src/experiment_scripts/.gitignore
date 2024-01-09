@@ -1,0 +1,9 @@
+#Experimental folders 
+DEPRACATED
+slurm_logs
+lightning_logs
+
+
+#Slurm run files
+**/slurm
+**lr

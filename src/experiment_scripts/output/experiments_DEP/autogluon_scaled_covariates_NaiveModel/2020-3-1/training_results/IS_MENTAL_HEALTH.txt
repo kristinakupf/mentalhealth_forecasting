@@ -1,0 +1,2 @@
+{'model_types': {'Naive': 'MultiWindowBacktestingModel'}, 'model_performance': {'Naive': -0.14566705276325712}, 'model_best': 'Naive', 'model_paths': {'Naive': './output/experiments/autogluon_scaled_covariates_NaiveModel/2020-3-1/model_files/IS_MENTAL_HEALTH/models/Naive/'}, 'model_fit_times': {'Naive': 0.013167619705200195}, 'model_pred_times': {'Naive': 5.586448669433594}, 'model_hyperparams': {'Naive': {}}, 'leaderboard':    model  score_val  pred_time_val  fit_time_marginal  fit_order
+0  Naive  -0.145667       5.586449           0.013168          1}

@@ -1,0 +1,2 @@
+{'model_types': {'ARIMA': 'MultiWindowBacktestingModel'}, 'model_performance': {'ARIMA': -0.19143904527169875}, 'model_best': 'ARIMA', 'model_paths': {'ARIMA': './output/experiments/autogluon_scaled_covariates_ARIMAModel/2022-7-31/model_files/IS_MENTAL_HEALTH/models/ARIMA/'}, 'model_fit_times': {'ARIMA': 0.012552261352539062}, 'model_pred_times': {'ARIMA': 0.1914205551147461}, 'model_hyperparams': {'ARIMA': {}}, 'leaderboard':    model  score_val  pred_time_val  fit_time_marginal  fit_order
+0  ARIMA  -0.191439       0.191421           0.012552          1}

@@ -1,0 +1,2 @@
+{'model_types': {'AutoETS': 'MultiWindowBacktestingModel'}, 'model_performance': {'AutoETS': -0.16407220556026322}, 'model_best': 'AutoETS', 'model_paths': {'AutoETS': './output/experiments/autogluon_scaled_covariates_AutoETSModel/2020-3-1/model_files/IS_MENTAL_HEALTH/models/AutoETS/'}, 'model_fit_times': {'AutoETS': 0.011112689971923828}, 'model_pred_times': {'AutoETS': 23.95055103302002}, 'model_hyperparams': {'AutoETS': {}}, 'leaderboard':      model  score_val  pred_time_val  fit_time_marginal  fit_order
+0  AutoETS  -0.164072      23.950551           0.011113          1}
