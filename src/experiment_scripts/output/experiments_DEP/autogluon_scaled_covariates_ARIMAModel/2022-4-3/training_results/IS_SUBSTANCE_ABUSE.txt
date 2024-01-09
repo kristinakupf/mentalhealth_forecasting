@@ -1,0 +1,2 @@
+{'model_types': {'ARIMA': 'MultiWindowBacktestingModel'}, 'model_performance': {'ARIMA': -0.10025070195897871}, 'model_best': 'ARIMA', 'model_paths': {'ARIMA': './output/experiments/autogluon_scaled_covariates_ARIMAModel/2022-4-3/model_files/IS_SUBSTANCE_ABUSE/models/ARIMA/'}, 'model_fit_times': {'ARIMA': 0.013076305389404297}, 'model_pred_times': {'ARIMA': 0.21886157989501953}, 'model_hyperparams': {'ARIMA': {}}, 'leaderboard':    model  score_val  pred_time_val  fit_time_marginal  fit_order
+0  ARIMA  -0.100251       0.218862           0.013076          1}

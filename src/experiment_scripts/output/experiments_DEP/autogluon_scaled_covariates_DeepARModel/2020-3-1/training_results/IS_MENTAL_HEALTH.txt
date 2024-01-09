@@ -1,0 +1,2 @@
+{'model_types': {'DeepAR': 'MultiWindowBacktestingModel'}, 'model_performance': {'DeepAR': -0.1429331238486476}, 'model_best': 'DeepAR', 'model_paths': {'DeepAR': './output/experiments/autogluon_scaled_covariates_DeepARModel/2020-3-1/model_files/IS_MENTAL_HEALTH/models/DeepAR/'}, 'model_fit_times': {'DeepAR': 119.53132247924805}, 'model_pred_times': {'DeepAR': 0.09980583190917969}, 'model_hyperparams': {'DeepAR': {}}, 'leaderboard':     model  score_val  pred_time_val  fit_time_marginal  fit_order
+0  DeepAR  -0.142933       0.099806         119.531322          1}
