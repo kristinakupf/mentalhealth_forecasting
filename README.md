@@ -31,7 +31,8 @@ AutoGluon plays a pivotal role in our forecasting approach. It enables automated
 - Clone the repository.
 
 ### Running the Notebooks
-- Navigate to the Data Analysis Notebooks and follow the instructions to run the analysis. 
+- Navigate to the experiment_scripts Notebooks and use the autogluon_experiment.ipynb.
+- Model performance can be compared in the experimental_analysis.ipynb 
 
 ## Contribution and Collaboration
 
