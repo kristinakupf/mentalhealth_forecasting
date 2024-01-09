@@ -2,7 +2,7 @@
 DEPRACATED
 slurm_logs
 lightning_logs
-
+.ipynb_checkpoints
 
 #Slurm run files
 **/slurm
