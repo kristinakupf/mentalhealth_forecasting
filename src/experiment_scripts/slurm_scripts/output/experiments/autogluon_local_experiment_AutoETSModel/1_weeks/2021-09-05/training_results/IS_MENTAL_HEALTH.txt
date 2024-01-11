@@ -1,0 +1,2 @@
+{'model_types': {'AutoETS': 'MultiWindowBacktestingModel'}, 'model_performance': {'AutoETS': -0.7401116688361784}, 'model_best': 'AutoETS', 'model_paths': {'AutoETS': './output/experiments/autogluon_local_experiment_AutoETSModel/1_weeks/2021-09-05/model_files/models/AutoETS/'}, 'model_fit_times': {'AutoETS': 0.05861663818359375}, 'model_pred_times': {'AutoETS': 2.627995729446411}, 'model_hyperparams': {'AutoETS': {}}, 'leaderboard':      model  score_val  pred_time_val  fit_time_marginal  fit_order
+0  AutoETS  -0.740112       2.627996           0.058617          1}

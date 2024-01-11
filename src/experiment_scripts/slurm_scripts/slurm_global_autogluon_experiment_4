@@ -1,0 +1,29 @@
+#!/bin/bash
+#SBATCH --job-name=global_exp4
+
+#SBATCH --partition=t4v2,rtx6000,a40
+
+#SBATCH --gres=gpu:1
+
+#SBATCH --qos=normal
+
+#SBATCH --cpus-per-task=4
+
+#SBATCH --time=10:00:00
+
+#SBATCH --mem-per-cpu=2G
+
+#SBATCH --output=./slurm_logs/global_exp4-%j.out
+
+#SBATCH --error=./slurm_logs/global_exp4-%j.err
+
+echo Running on $(hostname)
+
+# activate environment
+source /ssd003/projects/aieng/public/forecasting_unified/bin/activate
+
+ipython
+srun jupyter nbconvert --to notebook --execute Run_autogluon_global_experiment_4.ipynb
+
+# choose a random port
+#jupyter notebook --ip 0.0.0.0 --port 2244
