@@ -1,5 +1,5 @@
 #!/bin/bash
-#SBATCH --job-name=global_exp1
+#SBATCH --job-name=1global_exp
 
 #SBATCH --partition=t4v2,rtx6000,a40
 
@@ -9,7 +9,7 @@
 
 #SBATCH --cpus-per-task=4
 
-#SBATCH --time=10:00:00
+#SBATCH --time=12:00:00
 
 #SBATCH --mem-per-cpu=2G
 

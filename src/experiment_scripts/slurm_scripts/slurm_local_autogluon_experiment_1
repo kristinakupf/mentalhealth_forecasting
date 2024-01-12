@@ -9,6 +9,9 @@
 
 #SBATCH --cpus-per-task=4
 
+#SBATCH --time=10:00:00
+
+
 #SBATCH --mem-per-cpu=2G
 
 #SBATCH --output=./slurm_logs/1local_exp-%j.out
