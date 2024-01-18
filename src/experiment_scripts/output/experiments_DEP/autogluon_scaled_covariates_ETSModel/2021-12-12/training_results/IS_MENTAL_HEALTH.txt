@@ -1,2 +1,0 @@
-{'model_types': {'ETS': 'MultiWindowBacktestingModel'}, 'model_performance': {'ETS': -0.11092175334930515}, 'model_best': 'ETS', 'model_paths': {'ETS': './output/experiments/autogluon_scaled_covariates_ETSModel/2021-12-12/model_files/IS_MENTAL_HEALTH/models/ETS/'}, 'model_fit_times': {'ETS': 0.014602184295654297}, 'model_pred_times': {'ETS': 0.08048319816589355}, 'model_hyperparams': {'ETS': {}}, 'leaderboard':   model  score_val  pred_time_val  fit_time_marginal  fit_order
-0   ETS  -0.110922       0.080483           0.014602          1}

@@ -1,2 +1,0 @@
-{'model_types': {'ETS': 'MultiWindowBacktestingModel'}, 'model_performance': {'ETS': -0.12631848165237033}, 'model_best': 'ETS', 'model_paths': {'ETS': './output/experiments/autogluon_scaled_covariates_ETSModel/2022-4-3/model_files/IS_SUBSTANCE_ABUSE/models/ETS/'}, 'model_fit_times': {'ETS': 0.015077352523803711}, 'model_pred_times': {'ETS': 0.07839369773864746}, 'model_hyperparams': {'ETS': {}}, 'leaderboard':   model  score_val  pred_time_val  fit_time_marginal  fit_order
-0   ETS  -0.126318       0.078394           0.015077          1}

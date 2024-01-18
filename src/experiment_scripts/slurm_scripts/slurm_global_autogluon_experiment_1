@@ -1,5 +1,5 @@
 #!/bin/bash
-#SBATCH --job-name=1global_exp
+#SBATCH --job-name=global_exp1
 
 #SBATCH --partition=t4v2,rtx6000,a40
 

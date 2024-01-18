@@ -1,2 +1,0 @@
-{'model_types': {'Naive': 'MultiWindowBacktestingModel'}, 'model_performance': {'Naive': -1.0772490860539972}, 'model_best': 'Naive', 'model_paths': {'Naive': './output/experiments/autogluon_preset_best_quality_global_model_NaiveModel/2022-04-03/model_files/models/Naive/'}, 'model_fit_times': {'Naive': 0.07270550727844238}, 'model_pred_times': {'Naive': 0.32505130767822266}, 'model_hyperparams': {'Naive': {}}, 'leaderboard':    model  score_val  pred_time_val  fit_time_marginal  fit_order
-0  Naive  -1.077249       0.325051           0.072706          1}

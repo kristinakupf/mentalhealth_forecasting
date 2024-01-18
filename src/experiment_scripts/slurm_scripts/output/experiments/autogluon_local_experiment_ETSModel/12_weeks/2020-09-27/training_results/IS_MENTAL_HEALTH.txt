@@ -1,0 +1,2 @@
+{'model_types': {'ETS': 'MultiWindowBacktestingModel'}, 'model_performance': {'ETS': -0.4842009329452548}, 'model_best': 'ETS', 'model_paths': {'ETS': './output/experiments/autogluon_local_experiment_ETSModel/12_weeks/2020-09-27/model_files/models/ETS/'}, 'model_fit_times': {'ETS': 0.05259871482849121}, 'model_pred_times': {'ETS': 4.030987977981567}, 'model_hyperparams': {'ETS': {}}, 'leaderboard':   model  score_val  pred_time_val  fit_time_marginal  fit_order
+0   ETS  -0.484201       4.030988           0.052599          1}

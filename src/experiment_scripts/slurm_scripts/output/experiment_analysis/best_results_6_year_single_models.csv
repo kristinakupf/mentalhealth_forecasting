@@ -1,2 +1,2 @@
 ,category,top_experiment,mean_score
-0,IS_MENTAL_HEALTH,autogluon_global_with_scaled_covariates_experiment_TemporalFusionTransformerModel,0.17297688988843088
+0,IS_MENTAL_HEALTH,autogluon_local_experiment_AutoETSModel,0.15366856870280657

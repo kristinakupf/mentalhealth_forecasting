@@ -1,0 +1,2 @@
+{'model_types': {'ARIMA': 'MultiWindowBacktestingModel'}, 'model_performance': {'ARIMA': -0.493338887072699}, 'model_best': 'ARIMA', 'model_paths': {'ARIMA': './output/experiments/autogluon_local_experiment_ARIMAModel/12_weeks/2022-04-03/model_files/models/ARIMA/'}, 'model_fit_times': {'ARIMA': 0.07507920265197754}, 'model_pred_times': {'ARIMA': 13.069974422454834}, 'model_hyperparams': {'ARIMA': {}}, 'leaderboard':    model  score_val  pred_time_val  fit_time_marginal  fit_order
+0  ARIMA  -0.493339      13.069974           0.075079          1}

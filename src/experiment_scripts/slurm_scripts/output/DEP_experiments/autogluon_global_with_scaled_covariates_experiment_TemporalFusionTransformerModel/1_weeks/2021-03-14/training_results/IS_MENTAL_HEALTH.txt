@@ -1,5 +1,0 @@
-{'model_types': {'TemporalFusionTransformer': 'MultiWindowBacktestingModel'}, 'model_performance': {'TemporalFusionTransformer': -0.6192852904728807}, 'model_best': 'TemporalFusionTransformer', 'model_paths': {'TemporalFusionTransformer': './output/experiments/autogluon_global_with_scaled_covariates_experiment_TemporalFusionTransformerModel/1_weeks/2021-03-14/model_files/models/TemporalFusionTransformer/'}, 'model_fit_times': {'TemporalFusionTransformer': 331.9612910747528}, 'model_pred_times': {'TemporalFusionTransformer': 0.36472129821777344}, 'model_hyperparams': {'TemporalFusionTransformer': {}}, 'leaderboard':                        model  score_val  pred_time_val  fit_time_marginal  \
-0  TemporalFusionTransformer  -0.619285       0.364721         331.961291   
-
-   fit_order  
-0          1  }
